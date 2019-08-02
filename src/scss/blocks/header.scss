@@ -1,0 +1,51 @@
+.logo {
+  font-size: 30px;
+  color: #ffffff;
+  position: absolute;
+  top: 20px;
+  left: 100px;
+}
+
+ul {
+  position: absolute;
+  top: -10px;
+  right: 100px;
+}
+
+li {
+  display: inline;
+  list-style-type: none;
+  font-size: 18px;
+  margin:10px;
+  a {
+    text-decoration: none;
+    color:#ffffff;
+  }
+}
+
+li:hover {
+  text-align: center;
+  border: 2px solid #ffffff;
+  border-radius: 20px;
+  width: 70px;
+  padding: 5px 20px;
+}
+
+.header__text-header {
+  text-align: center;
+  padding: 150px;
+  color: #ffffff;
+  h1 {
+    font-size: 50px;
+  }
+}
+
+button {
+  font-weight: bold;
+  height: 50px;
+  border-radius: 30px;
+  width: 150px;
+  background-color: #ffffa6;
+  color:#10273d;
+  border: 2px solid #ffffa6;
+}

@@ -1,0 +1,30 @@
+.city {
+    opacity: 0.9;
+    background: #fff;
+    padding: 100px;
+    margin: 30px;
+    height: 70px;
+}
+
+.city_img {
+    position: absolute;
+    padding: 0px;
+    top: 700px;
+    left: 150px;
+    list-style-type: none;
+}
+
+.header__text-city {
+    position: absolute;
+    left: 650px;
+    text-align: left;
+    padding: 70px;
+    margin: -50px;
+    color: #777777;
+    font-size: 18px;
+    h2 {
+        font-weight: bold;
+        color: #29d9c2;
+        font-size: 50px;
+    }
+}

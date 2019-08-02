@@ -1,0 +1,39 @@
+.contact_left {
+    position: relative;
+    top: -370px;
+    left: 100px;
+    background-color: #34b5b8;
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+    h2 {
+        margin: 20px;
+        color: #ffffff;
+        font-size: 50px;
+    }
+}
+
+form input[type="text"] {
+    width: 250px;
+    padding: 15px 50px;
+    border-radius: 20px;
+    border: 2px solid #b4ec84;
+}
+
+form input[type="button"]{
+    width: 250px;
+    padding: 15px 50px;
+    border-radius: 20px;
+    border: 2px solid #b4ec84;
+    color: #ffffff;
+    background-color: #b4ec84;
+    z-index: 0;
+}
+
+iframe {
+    position: absolute;
+    right: -700px;
+    top: -150px;
+    width: 650px;
+    height: 600px;
+}
